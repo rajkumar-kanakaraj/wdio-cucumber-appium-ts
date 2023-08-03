@@ -1,0 +1,49 @@
+[
+    {
+        "name": "/Users/mjayara/Documents/British_Petrolium_Mobile/src/featureFiles/login.feature",
+        "tags": [
+            [
+                "@preset1"
+            ],
+            [
+                "@smoke1"
+            ],
+            [
+                "@smoke"
+            ],
+            [
+                "@smoke"
+            ]
+        ],
+        "compiledPickels": [
+            {
+                "tags": [
+                    "@preset1"
+                ],
+                "scenarioName": "verify the successfull login for fast scan application",
+                "featureFile": "/Users/mjayara/Documents/British_Petrolium_Mobile/src/featureFiles/login.feature"
+            },
+            {
+                "tags": [
+                    "@smoke1"
+                ],
+                "scenarioName": "verify the successfull login for fast scan application1",
+                "featureFile": "/Users/mjayara/Documents/British_Petrolium_Mobile/src/featureFiles/login.feature"
+            },
+            {
+                "tags": [
+                    "@smoke"
+                ],
+                "scenarioName": "verify the successfull login for fast scan application2",
+                "featureFile": "/Users/mjayara/Documents/British_Petrolium_Mobile/src/featureFiles/login.feature"
+            },
+            {
+                "tags": [
+                    "@smoke"
+                ],
+                "scenarioName": "verify the successfull login for fast scan application3",
+                "featureFile": "/Users/mjayara/Documents/British_Petrolium_Mobile/src/featureFiles/login.feature"
+            }
+        ]
+    }
+]
